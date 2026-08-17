@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Pequenas partes de uma autobiografia</title>
+</head>
+<body style="background-color: #7AAACE; text-align: center;">
+
+  <header>
+    <h1 style="color: #F7F8F0;">Pequenas partes de uma autobiografia</h1>
+    <h2 style="color: #F7F8F0;">Para não ficar muito extenso, irei focar apenas em alguns interesses meus e família!</h2>
+    
+    <nav>
+      <a href="#interesses" style="color: #F7F8F0; margin-right: 15px;">Interesses</a>
+      <a href="#familia" style="color: #F7F8F0;">Família</a>
+    </nav>
+  </header>
+
+  <main>
+    <article>
+      <section id="interesses">
+        <h3 style="color: #F7F8F0;">Interesses: Jogos</h3>
+        <p style="color: #355872;">
+          Desde criança, gostava de navegar sem rumo pela internet, sempre buscando pelo o que poderia ser diferente, o que poderia atrair pessoas parecidas a mim e o que poderia me divertir ao longo do tempo. Quando pequena, conheci vários jogos como as franquias Persona, Final Fantasy, Resident Evil e alguns jogos de Sonic. Apenas assistia a gameplay desses jogos por serem caros e não ter um computador bom para jogar naquela época, e a maioria desses jogos moldaram muito minha personalidade, principalmente Persona 3. Hoje em dia, ainda gosto muito desses jogos, conheci vários outros igualmente bons mas ainda vejo a mágica nos primeiros que conheci.
+        </p>
+        <img src="https://flowgames.gg/wp-content/uploads/2023/06/Persona-3-Reload-1.jpg" alt="Persona 3 Reload" style="width: 650px;">
+      </section>
+
+      <section id="familia">
+        <h3 style="color: #F7F8F0;">Família</h3>
+        <p style="color: #355872;">
+          Neste parágrafo, eu gostaria de dedicar à minha cachorrinha fofinha piquituchinha, amo minha família, mas aqui quero falar sobre ela pra deixar mais leve de ler. Adotamos ela em 2015, quando eu tinha apenas 5 míseros anos, e até hoje ela está conosco. Cuidamos muito dela, amamos, nutrimos e brincamos muito. Ela tem 10 aninhos, faz 11 este ano. Segue uma imagem dela com minha irmã. :-)
+        </p>
+        <img src="https://i.postimg.cc/0QJFm4fW/Whats-App-Image-2026-04-27-at-09-58-22.jpg" alt="Foto da cachorrinha com a irmã">
+      </section>
+    </article>
+
+    <aside style="color: #355872; margin-top: 20px;">
+      <p><em>Nota: Persona 3 foi o jogo principal que moldou minha personalidade na infância!</em></p>
+    </aside>
+  </main>
+
+  <footer style="margin-top: 40px; color: #F7F8F0;">
+    <p>Página criada como parte de uma autobiografia pessoal.</p>
+  </footer>
+
+</body>
+</html>
+
