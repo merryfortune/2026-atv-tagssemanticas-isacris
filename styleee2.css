@@ -1,0 +1,136 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #7AAACE;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #355872;
+    line-height: 1.6;
+}
+
+.branco {
+    color: #F7F8F0;
+}
+
+.branco-sub {
+    color: #e3edf5;
+    font-weight: normal;
+    font-size: 1.1rem;
+    margin-top: 5px;
+}
+
+/* Header principal */
+.headerprincipal {
+    background-color: #355872;
+    padding: 40px 20px;
+    text-align: center;
+    border-bottom: 4px solid #5482a6;
+}
+
+.headerconteudo {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.menunav {
+    margin-top: 20px;
+}
+
+.btnnav {
+    color: #F7F8F0;
+    text-decoration: none;
+    background-color: #5482a6;
+    padding: 8px 18px;
+    border-radius: 20px;
+    margin: 0 5px;
+    display: inline-block;
+    transition: background-color 0.2s ease;
+}
+
+.btnnav:hover {
+    background-color: #7AAACE;
+}
+
+
+.containerprincipal {
+    max-width: 1100px;
+    margin: 30px auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: 2.8fr 1fr; 
+    gap: 25px;
+}
+
+.card {
+    background-color: #F7F8F0;
+    border-radius: 12px;
+    padding: 25px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    text-align: left;
+}
+
+.card h3 {
+    color: #244157;
+    margin-bottom: 12px;
+    font-size: 1.5rem;
+}
+
+.card p {
+    color: #355872;
+    font-size: 1.05rem;
+    margin-bottom: 15px;
+}
+
+.tag {
+    display: inline-block;
+    background-color: #7AAACE;
+    color: #F7F8F0;
+    font-size: 0.8rem;
+    padding: 3px 10px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.media-wrapper {
+    width: 100%;
+    margin-top: 15px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.img-destaque {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+.sidebarlateral {
+    display: flex;
+    flex-direction: column;
+}
+
+.cardsidebar {
+    background-color: #e9f2f8;
+    border-left: 4px solid #355872;
+}
+
+.cardsidebar h4 {
+    color: #355872;
+    margin-bottom: 8px;
+}
+
+.rodape {
+    text-align: center;
+    padding: 30px 20px;
+    background-color: #355872;
+    margin-top: 40px;
+}
+
+/* e essas eleições, esse resultado sai nunca */
